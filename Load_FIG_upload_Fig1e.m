@@ -4,7 +4,7 @@ clc
 
 time = linspace( -.2,.6,267);
 
-filename = '/export/data/daeckert/oddballECoG/Info/forPictures/FIG1e.mat';
+filename = '/export/data/daeckert/oddballECoG/Info/forPictures/FIG1_e.mat';
 FIG1 = load(filename);
 
 figure;
