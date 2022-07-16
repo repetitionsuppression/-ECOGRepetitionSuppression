@@ -3,9 +3,6 @@ close all
 clc
 
 
-GetParameter
-% saving
-
 
 filename        = '/export/data/duerschm/MMN/repetitionSuppression/figures/FIG3c.mat';
 FIG3            = load( filename );
