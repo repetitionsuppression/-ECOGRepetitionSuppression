@@ -20,7 +20,7 @@ plot(FIG1.MNI.gc(FIG1.MNI.rssrch,3),FIG1.MNI.gc(FIG1.MNI.rssrch,4),'o','MarkerSi
 
 
 figure;
-A = imread( '/export/data/duerschm/MMN/repetitionSuppression/data/MNI.png' );
+A = imread( '/export/data/duerschm/MMN/repetitionSuppression/data/FIG1_b_d_MNI.png' );
 imshow( A ); hold on
 color = {'b','g','r' };
 plot(FIG1.MNI.gc(pll,3),FIG1.MNI.gc(pll,4),'.','MarkerSize',8,'Color','w')
